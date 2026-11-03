@@ -1,0 +1,6 @@
+cifake_dataset/
+ai-image-env/
+__pycache__/
+*.pyc
+nsga2_*.out
+.env
